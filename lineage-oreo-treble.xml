@@ -1,6 +1,6 @@
 <manifest>
 
-    <!-- Xiaomi -->
+    <!-- Xiaomi dependencies -->
     <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" revision="lineage-15.1"/>
     <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" revision="lineage-15.1" />
 
